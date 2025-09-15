@@ -20,4 +20,5 @@ export default defineConfig({
       },
     },
   },
+  base: "/ShopEasy-Ecom/",   // 👈 important for GitHub Pages
 })
